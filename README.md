@@ -1,3 +1,3 @@
-# FW4001_notes
-notes for UMN Biometry FW4001
+# Biometry_notes
+
 ## Week 1
